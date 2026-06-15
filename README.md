@@ -1,2 +1,1 @@
-# base-template
-Base template repository for drafts
+# Repo for publishing RFC 9998
