@@ -1,3 +1,29 @@
 {
-  "publications": []
+  "publications": [
+    {
+      "rfcNumber": 9998,
+      "files": [
+        {
+          "path": "rfc9998.html",
+          "type": "html"
+        },
+        {
+          "path": "rfc9998.notprepped.xml",
+          "type": "notprepped"
+        },
+        {
+          "path": "rfc9998.pdf",
+          "type": "pdf"
+        },
+        {
+          "path": "rfc9998.txt",
+          "type": "txt"
+        },
+        {
+          "path": "rfc9998.xml",
+          "type": "xml"
+        }
+      ]
+    }
+  ]
 }
